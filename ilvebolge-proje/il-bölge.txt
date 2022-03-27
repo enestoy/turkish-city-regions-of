@@ -1,0 +1,109 @@
+Akdeniz Bölgesi
+
+01 - Adana
+07 – Antalya
+15 – Burdur
+31 – Hatay
+32 – Isparta
+33 – İçel (Mersin)
+46 – Kahramanmaraş
+80 – Osmaniye
+
+
+Doğu Anadolu Bölgesi
+
+04 – Ağrı
+12 – Bingöl
+13 – Bitlis
+23 – Elazığ
+24 – Erzincan
+25 – Erzurum
+30 – Hakkâri
+36 – Kars
+44 – Malatya
+49 – Muş
+62 – Tunceli
+65 – Van
+75 – Ardahan
+76 – Iğdır
+
+Güneydoğu Anadolu Bölgesi
+
+02 – Adıyaman
+21 – Diyarbakır
+27 – Gaziantep
+47 – Mardin
+56 – Siirt
+63 – Şanlıurfa
+72 – Batman
+73 – Şırnak
+79 – Kilis
+
+Marmara Bölgesi
+
+10 - Balıkesir
+11 – Bilecik
+16 – Bursa
+17 - Çanakkale
+22 – Edirne
+34 - İstanbul
+39 – Kırklareli
+41 – Kocaeli
+54 – Sakarya (Adapazarı)
+59 - Tekirdağ
+77 – Yalova
+
+
+Ege Bölgesi
+
+03 – Afyon
+09 – Aydın
+20 – Denizli
+35 – İzmir
+43 – Kütahya
+45 – Manisa
+48 – Muğla
+64 – Uşak
+
+
+
+İç Anadolu Bölgesi
+
+06 – Ankara
+18 - Çankırı
+26 – Eskişehir
+38 – Kayseri
+40 – Kırşehir
+42 – Konya
+50 - Nevşehir
+51 – Niğde
+58 –Sivas
+66 – Yozgat
+68 – Aksaray
+70 – Karaman
+71 - Kırıkkale
+
+Karadeniz Bölgesi
+
+05 – Amasya
+08 – Artvin
+14 – Bolu
+19 – Çorum
+28 – Giresun
+29 – Gümüşhane
+37 – Kastamonu
+52 – Ordu
+53 - Rize
+55 – Samsun
+57 – Sinop
+60 – Tokat
+61 – Trabzon
+67 – Zonguldak
+69 – Bayburt
+74 – Bartın
+78 – Karabük
+81 – Düzce
+
+
+
+
