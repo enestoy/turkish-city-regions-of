@@ -23,6 +23,16 @@
     background-color:white;
     padding-bottom: 0; 
     }
+
+
+    select {
+        margin-bottom: 1rem;
+        padding-bottom: 0.25rem;
+        border-radius: 0;
+        height: 36px;
+        font-family: bold;
+    
+    }
     
     </style>
 
